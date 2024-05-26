@@ -1,0 +1,374 @@
+Date,Home,xG_Home,xG_Away,Away,Referee,xGA_Home,xGA_Away,Home_Fatigue,Away_Fatigue,Temp,Humidity,Wind,Referee_Bias,G_Home,G_Away,Result
+10-02-2019 16:00,Manchester City,3.0,0.9,Chelsea,Mike Dean,0.9,1.0,Moderate,Moderate,Low,High,Moderate,Home,6,0,Home
+27-12-2019 19:45,Wolves,2.6,1.5,Manchester City,Martin Atkinson,2.2,0.5,Moderate,Moderate,Low,High,Low,Away,3,2,Home
+21-11-2021 14:00,Manchester City,2.5,0.2,Everton,Stuart Attwell,1.9,0.1,Low,Low,Low,Moderate,Moderate,Home,3,0,Home
+25-11-2019 20:00,Aston Villa,2.3,0.6,Newcastle Utd,Lee Mason,2.3,0.5,Low,Moderate,Moderate,High,Low,Home,2,0,Home
+05-10-2019 15:00,Liverpool,3.5,0.1,Leicester City,Chris Kavanagh,2.1,0.1,Low,Moderate,Moderate,High,Moderate,Home,2,1,Home
+17-06-2020 20:15,Manchester City,2.6,0.3,Arsenal,Anthony Taylor,1.5,0.1,Low,Moderate,Moderate,High,Low,Home,3,0,Home
+01-05-2022 14:00,Everton,0.8,0.8,Chelsea,Kevin Friend,0.7,0.7,Moderate,High,Moderate,High,Low,Home,1,0,Home
+05-10-2019 15:00,Burnley,0.6,1.3,Everton,Graham Scott,0.5,0.9,Low,Moderate,Moderate,High,Moderate,Away,1,0,Home
+12-01-2021 20:15,Burnley,0.9,1.2,Manchester Utd,Kevin Friend,0.0,1.0,Low,Low,Low,High,Low,Away,0,1,Away
+16-10-2022 14:00,Leeds United,1.8,0.5,Arsenal,Chris Kavanagh,0.8,0.5,Low,Moderate,Moderate,Moderate,Moderate,Away,0,1,Away
+05-05-2019 16:30,Arsenal,2.4,1.9,Brighton,Anthony Taylor,2.1,0.4,Low,Low,Moderate,Moderate,Low,Home,1,1,Draw
+28-05-2023 16:30,Manchester Utd,2.9,1.8,Fulham,Robert Jones,2.0,0.9,High,Moderate,Moderate,Moderate,Moderate,Home,2,1,Home
+26-04-2023 19:30,Nott'ham Forest,2.4,2.3,Brighton,Jarred Gillett,0.7,1.3,Moderate,Low,Moderate,Moderate,Low,Away,3,1,Home
+14-09-2019 12:30,Liverpool,3.0,0.3,Newcastle Utd,Andre Marriner,2.1,0.3,Low,Low,Moderate,Moderate,Low,Away,3,1,Home
+21-03-2021 15:00,West Ham,2.4,1.4,Arsenal,Jonathan Moss,2.1,1.2,Moderate,Moderate,Moderate,Moderate,Low,Away,3,3,Draw
+21-09-2019 15:00,Manchester City,5.9,0.4,Watford,Mike Dean,4.3,0.4,Moderate,Moderate,Moderate,Moderate,Moderate,Home,8,0,Home
+01-05-2021 15:00,Brighton,2.3,0.6,Leeds United,Chris Kavanagh,1.3,0.4,Moderate,Moderate,Low,Moderate,Moderate,Away,2,0,Home
+17-08-2019 15:00,Aston Villa,2.0,1.6,Bournemouth,Martin Atkinson,1.8,0.8,Low,Low,Moderate,Moderate,Moderate,Away,1,2,Away
+06-02-2021 17:30,Fulham,1.5,1.0,West Ham,Mike Dean,1.1,1.0,High,Moderate,Low,High,Low,Home,0,0,Draw
+19-09-2020 20:00,Arsenal,1.1,2.0,West Ham,Michael Oliver,1.1,1.5,Low,Low,Moderate,Moderate,Low,Away,2,1,Home
+30-10-2020 20:00,Wolves,1.3,0.7,Crystal Palace,Martin Atkinson,1.2,0.4,Moderate,Moderate,Moderate,High,Low,Away,2,0,Home
+07-02-2021 12:00,Tottenham,1.5,0.6,West Brom,Stuart Attwell,1.0,0.6,High,Moderate,Low,High,Moderate,Home,2,0,Home
+03-01-2019 20:00,Manchester City,1.1,1.5,Liverpool,Anthony Taylor,0.8,1.7,Moderate,Moderate,Low,High,Low,Home,2,1,Home
+16-12-2020 18:00,Leeds United,2.7,1.5,Newcastle Utd,Simon Hooper,1.9,1.5,Moderate,High,Low,High,Moderate,Away,5,2,Home
+17-04-2021 12:30,Newcastle Utd,2.2,1.9,West Ham,Kevin Friend,1.3,1.0,Moderate,High,Moderate,Moderate,Low,Away,3,2,Home
+31-08-2022 19:30,Bournemouth,0.4,1.5,Wolves,Anthony Taylor,0.2,1.3,Moderate,Moderate,Moderate,Moderate,Low,Away,0,0,Draw
+08-10-2022 15:00,Newcastle Utd,1.5,1.2,Brentford,John Brooks,0.8,0.3,Low,Moderate,Moderate,Moderate,Moderate,Home,5,1,Home
+24-08-2019 15:00,Manchester Utd,2.5,1.1,Crystal Palace,Paul Tierney,1.0,0.3,Moderate,High,High,Moderate,Low,Away,1,2,Away
+23-02-2022 19:45,Liverpool,5.9,0.2,Leeds United,Michael Oliver,2.8,0.2,Moderate,High,Low,High,High,Home,6,0,Home
+09-10-2022 14:00,West Ham,2.4,0.7,Fulham,Chris Kavanagh,1.2,0.5,Low,Low,Moderate,Moderate,Moderate,Away,3,1,Home
+31-12-2022 17:30,Brighton,1.2,2.9,Arsenal,Anthony Taylor,0.8,1.2,Moderate,Moderate,Moderate,High,Moderate,Away,2,4,Away
+06-02-2021 20:00,Manchester Utd,1.8,1.5,Everton,Jonathan Moss,1.6,0.6,Moderate,Moderate,Low,High,Moderate,Away,3,3,Draw
+27-09-2021 20:00,Crystal Palace,1.4,0.8,Brighton,Andre Marriner,0.6,0.6,Low,Low,Moderate,High,Low,Away,1,1,Draw
+15-04-2023 12:30,Aston Villa,1.9,0.5,Newcastle Utd,John Brooks,1.8,0.5,Moderate,High,Low,High,Low,Home,3,0,Home
+17-09-2022 12:30,Wolves,0.4,1.1,Manchester City,Anthony Taylor,0.3,0.9,Low,Low,Moderate,Moderate,Low,Away,0,3,Away
+20-03-2021 20:00,Brighton,0.9,0.1,Newcastle Utd,Anthony Taylor,0.8,0.1,Moderate,Moderate,Low,High,Low,Away,3,0,Home
+19-02-2022 15:00,Crystal Palace,0.5,0.9,Chelsea,David Coote,0.5,0.6,Low,Low,Low,High,High,Home,0,1,Away
+28-05-2023 16:30,Crystal Palace,1.4,0.5,Nott'ham Forest,Thomas Bramall,1.3,0.4,Low,Low,Moderate,Low,Moderate,Away,1,1,Draw
+12-11-2022 15:00,Bournemouth,2.4,0.8,Everton,Craig Pawson,2.2,0.6,Low,High,Moderate,High,Moderate,Away,3,0,Home
+17-08-2019 12:30,Arsenal,0.8,1.5,Burnley,Mike Dean,0.8,0.9,Low,Moderate,Moderate,Moderate,Moderate,Home,2,1,Home
+30-11-2020 20:00,West Ham,0.4,2.5,Aston Villa,Peter Bankes,0.3,1.6,Low,Low,Moderate,High,Moderate,Away,2,1,Home
+24-11-2018 15:00,Brighton,1.0,1.2,Leicester City,Chris Kavanagh,1.3,0.5,Low,Low,Low,High,Low,Home,1,1,Draw
+15-05-2021 12:30,Burnley,1.3,1.5,Leeds United,Graham Scott,0.8,1.3,Moderate,Moderate,Low,High,Low,Away,0,4,Away
+05-03-2022 15:00,Newcastle Utd,1.7,1.5,Brighton,Martin Atkinson,1.2,1.4,Low,Moderate,Low,High,Moderate,Away,2,1,Home
+24-08-2019 15:00,Watford,2.3,3.5,West Ham,Chris Kavanagh,2.3,2.3,Low,Low,High,Low,Low,Home,1,3,Away
+13-04-2019 17:30,Manchester Utd,2.5,1.4,West Ham,Graham Scott,0.8,0.7,Low,High,Low,Moderate,Moderate,Home,2,1,Home
+23-04-2023 14:00,Bournemouth,1.5,2.4,West Ham,Anthony Taylor,1.2,2.2,Low,Low,Moderate,Moderate,Moderate,Away,0,4,Away
+13-01-2019 16:30,Tottenham,1.8,0.8,Manchester Utd,Mike Dean,0.4,0.6,Low,Moderate,Moderate,High,Moderate,Home,0,1,Away
+05-11-2021 20:00,Southampton,0.6,0.6,Aston Villa,Andy Madley,0.3,0.5,Moderate,Moderate,Low,High,Low,Away,1,0,Home
+26-10-2019 12:30,Manchester City,2.9,1.0,Aston Villa,Graham Scott,1.8,0.3,Moderate,Moderate,Low,High,Low,Away,3,0,Home
+11-01-2020 12:30,Crystal Palace,0.6,1.4,Arsenal,Paul Tierney,0.5,0.4,Low,Low,Low,High,Moderate,Away,1,1,Draw
+29-06-2020 20:00,Crystal Palace,0.9,0.4,Burnley,Simon Hooper,0.3,0.2,Moderate,High,Moderate,Moderate,Moderate,Away,0,1,Away
+26-12-2021 15:00,Norwich City,0.1,2.5,Arsenal,Graham Scott,0.1,0.8,Low,Low,Low,High,Low,Away,0,5,Away
+03-12-2019 20:15,Burnley,0.6,2.2,Manchester City,Jonathan Moss,0.5,1.8,Moderate,Moderate,Low,High,Low,Home,1,4,Away
+25-04-2023 20:00,Leeds United,1.5,2.1,Leicester City,Paul Tierney,1.3,1.9,Moderate,Moderate,Low,Moderate,Low,Home,1,1,Draw
+01-01-2020 15:00,Newcastle Utd,0.7,2.6,Leicester City,Martin Atkinson,0.7,1.7,Moderate,High,Low,High,Low,Away,0,3,Away
+16-10-2022 14:00,Southampton,0.5,1.7,West Ham,Peter Bankes,0.4,1.3,Low,Low,Moderate,Moderate,Moderate,Home,1,1,Draw
+27-04-2023 19:45,Everton,0.9,2.4,Newcastle Utd,Andre Marriner,0.7,1.1,Moderate,Moderate,Moderate,High,Moderate,Home,1,4,Away
+28-12-2022 20:00,Leeds United,0.6,4.3,Manchester City,Stuart Attwell,0.4,3.7,Low,Moderate,Low,High,High,Home,1,3,Away
+06-10-2018 15:00,Tottenham,2.0,1.2,Cardiff City,Mike Dean,0.8,0.3,Low,Moderate,Low,High,Moderate,Home,1,0,Home
+01-11-2021 20:00,Wolves,1.7,1.5,Everton,Martin Atkinson,0.3,1.0,Low,Low,Low,High,Low,Away,2,1,Home
+15-07-2020 18:00,Burnley,1.9,1.2,Wolves,Mike Dean,1.1,1.0,Moderate,Moderate,Moderate,High,Moderate,Home,1,1,Draw
+05-11-2022 15:00,Wolves,1.2,1.5,Brighton,Graham Scott,0.4,0.9,Low,Low,Moderate,High,Moderate,Away,2,3,Away
+20-04-2019 15:00,West Ham,1.2,0.9,Leicester City,Lee Probert,0.7,1.3,Moderate,Low,Moderate,Low,Low,Home,2,2,Draw
+23-02-2019 12:30,Burnley,1.2,0.9,Tottenham,Mike Dean,0.9,0.3,Low,Moderate,Moderate,High,Low,Home,2,1,Home
+29-12-2018 15:00,Leicester City,1.8,0.6,Cardiff City,Simon Hooper,0.4,1.2,Moderate,Moderate,Moderate,High,Moderate,Away,0,1,Away
+22-12-2019 14:00,Watford,1.5,1.8,Manchester Utd,Lee Mason,0.4,1.7,Low,Low,Low,High,Moderate,Home,2,0,Home
+01-09-2018 15:00,Brighton,2.8,1.6,Fulham,Lee Probert,0.8,0.6,Moderate,Moderate,Moderate,Moderate,Low,Home,2,2,Draw
+21-01-2023 15:00,West Ham,2.2,0.5,Everton,Stuart Attwell,1.5,0.3,Low,Moderate,Low,Moderate,Low,Home,2,0,Home
+30-09-2019 20:00,Manchester Utd,0.9,1.9,Arsenal,Kevin Friend,0.6,1.4,Low,Moderate,Moderate,High,Low,Home,1,1,Draw
+27-09-2020 16:30,Manchester City,0.9,2.9,Leicester City,Michael Oliver,0.5,0.5,Moderate,Moderate,Moderate,Moderate,Low,Away,2,5,Away
+16-03-2019 15:00,Bournemouth,1.3,1.1,Newcastle Utd,Mike Dean,0.2,2.3,Low,Moderate,Moderate,High,High,Home,2,2,Draw
+01-02-2020 15:00,Crystal Palace,0.8,0.7,Sheffield Utd,Andy Madley,0.7,0.5,Low,Low,Moderate,Moderate,High,Away,0,1,Away
+01-12-2019 14:00,Norwich City,0.8,1.9,Arsenal,Paul Tierney,0.6,0.5,Low,Low,Low,Moderate,Moderate,Away,2,2,Draw
+28-11-2020 17:30,Everton,1.2,2.9,Leeds United,Chris Kavanagh,1.2,2.9,Moderate,High,Low,High,Low,Away,0,1,Away
+24-11-2018 15:00,Fulham,1.3,1.3,Southampton,Michael Oliver,0.2,0.7,Low,Low,Low,High,Moderate,Away,3,2,Home
+19-10-2019 15:00,Chelsea,2.0,0.4,Newcastle Utd,Andre Marriner,1.3,0.4,Low,Moderate,Moderate,Moderate,Moderate,Away,1,0,Home
+04-01-2023 20:00,Aston Villa,1.8,0.9,Wolves,Jarred Gillett,1.6,0.5,Moderate,Moderate,Moderate,High,Moderate,Away,1,1,Draw
+30-04-2023 14:00,Fulham,0.2,2.5,Manchester City,Simon Hooper,0.1,1.1,Moderate,High,Moderate,Moderate,Low,Home,1,2,Away
+28-05-2023 16:30,Southampton,1.8,4.0,Liverpool,Darren England,1.0,3.0,Low,Moderate,Moderate,Low,Moderate,Home,4,4,Draw
+22-02-2020 12:30,Chelsea,1.7,0.2,Tottenham,Michael Oliver,0.6,0.2,Moderate,Moderate,Moderate,Moderate,High,Away,2,1,Home
+01-01-2022 17:30,Crystal Palace,2.4,2.2,West Ham,Darren England,2.2,1.1,Moderate,Moderate,Moderate,High,Moderate,Home,2,3,Away
+08-11-2020 16:30,Manchester City,1.4,1.2,Liverpool,Craig Pawson,0.6,0.3,Low,Low,Moderate,High,Low,Home,1,1,Draw
+21-01-2023 17:30,Crystal Palace,0.3,1.2,Newcastle Utd,Craig Pawson,0.2,1.1,High,High,Low,High,Low,Away,0,0,Draw
+25-09-2021 15:00,Everton,1.9,0.5,Norwich City,David Coote,1.1,0.4,Moderate,Moderate,Moderate,High,Low,Home,2,0,Home
+13-08-2022 15:00,Southampton,1.2,1.8,Leeds United,Tony Harrington,0.8,1.9,Low,Low,High,Low,Low,Home,2,2,Draw
+09-02-2019 17:30,Brighton,1.1,2.1,Burnley,Stuart Attwell,1.1,0.2,Low,Moderate,Low,High,Moderate,Away,1,3,Away
+01-03-2020 14:00,Tottenham,1.7,2.6,Wolves,Stuart Attwell,0.6,1.1,Low,Low,Low,Moderate,Moderate,Home,2,3,Away
+20-07-2020 18:00,Brighton,0.8,0.9,Newcastle Utd,Simon Hooper,0.7,0.9,Moderate,High,Moderate,Moderate,Low,Away,0,0,Draw
+19-10-2019 17:30,Crystal Palace,0.9,3.5,Manchester City,Anthony Taylor,0.4,3.4,Low,Moderate,Moderate,Moderate,Low,Home,0,2,Away
+04-10-2020 14:00,Wolves,1.2,0.9,Fulham,Darren England,0.6,0.8,Moderate,Moderate,Moderate,High,Low,Away,1,0,Home
+27-12-2020 16:30,Liverpool,1.5,0.6,West Brom,Kevin Friend,1.4,0.5,Low,Moderate,Low,High,Moderate,Away,1,1,Draw
+07-12-2019 15:00,Watford,1.4,0.2,Crystal Palace,Martin Atkinson,1.3,0.1,High,Moderate,Moderate,High,Low,Away,0,0,Draw
+27-09-2020 12:00,Sheffield Utd,1.4,1.2,Leeds United,Paul Tierney,1.3,1.1,Moderate,Low,Moderate,High,Moderate,Home,0,1,Away
+02-02-2020 16:30,Tottenham,0.3,2.4,Manchester City,Mike Dean,0.3,1.2,Low,Moderate,Moderate,High,Moderate,Home,2,0,Home
+06-02-2021 15:00,Newcastle Utd,0.7,1.3,Southampton,Craig Pawson,0.6,0.7,Moderate,High,Low,High,Moderate,Home,3,2,Home
+19-01-2019 15:00,Liverpool,2.6,0.7,Crystal Palace,Jonathan Moss,0.9,1.2,Low,Moderate,Low,High,Low,Home,4,3,Home
+10-08-2019 15:00,Burnley,0.9,1.2,Southampton,Graham Scott,0.6,0.9,Low,Moderate,Moderate,High,High,Away,3,0,Home
+08-12-2018 12:30,Bournemouth,0.3,1.6,Liverpool,Lee Mason,1.7,0.4,Moderate,High,Moderate,High,High,Home,0,4,Away
+04-04-2023 19:45,Leicester City,0.5,1.0,Aston Villa,Graham Scott,0.4,0.9,Moderate,Moderate,Moderate,Moderate,Low,Away,1,2,Away
+02-03-2019 12:30,Tottenham,1.6,2.6,Arsenal,Anthony Taylor,0.6,0.7,High,Moderate,Moderate,High,Moderate,Home,1,1,Draw
+25-10-2019 20:00,Southampton,0.3,4.6,Leicester City,Andre Marriner,0.3,2.7,Moderate,Moderate,Moderate,High,High,Away,0,9,Away
+08-07-2020 20:15,Brighton,2.4,2.5,Liverpool,Craig Pawson,2.0,2.1,Moderate,High,Moderate,High,Low,Home,1,3,Away
+23-01-2022 16:30,Chelsea,1.2,0.5,Tottenham,Paul Tierney,1.1,0.5,Moderate,Moderate,Low,High,Low,Home,2,0,Home
+20-08-2022 17:30,Bournemouth,0.3,1.3,Arsenal,Craig Pawson,0.2,0.8,Low,Low,Moderate,Moderate,Moderate,Away,0,3,Away
+15-05-2022 14:00,West Ham,1.1,2.4,Manchester City,Anthony Taylor,0.8,1.2,Low,High,Moderate,High,Low,Home,2,2,Draw
+01-12-2019 16:30,Leicester City,2.2,1.1,Everton,Graham Scott,1.9,1.1,Low,Low,Low,High,Low,Away,2,1,Home
+31-01-2021 16:30,West Ham,0.8,2.0,Liverpool,Jonathan Moss,0.3,1.8,Moderate,High,Low,High,Low,Away,1,3,Away
+03-09-2022 17:30,Aston Villa,0.3,2.1,Manchester City,Simon Hooper,0.3,1.7,High,Moderate,Moderate,Moderate,Low,Home,1,1,Draw
+11-02-2023 15:00,Crystal Palace,1.1,2.5,Brighton,Michael Oliver,0.2,2.1,Low,Low,Low,High,Low,Home,1,1,Draw
+22-05-2022 16:00,Arsenal,4.2,1.1,Everton,Andre Marriner,2.2,1.1,Moderate,High,Moderate,Moderate,Low,Away,5,1,Home
+20-07-2020 18:00,Sheffield Utd,0.5,0.4,Everton,Stuart Attwell,0.4,0.4,Moderate,Moderate,Moderate,Moderate,Moderate,Home,0,1,Away
+03-10-2020 17:30,Leeds United,2.4,1.2,Manchester City,Mike Dean,1.4,1.0,Moderate,High,Moderate,High,Low,Home,1,1,Draw
+19-02-2022 17:30,Manchester City,2.1,1.4,Tottenham,Anthony Taylor,0.8,1.4,Low,High,Low,High,Low,Home,2,3,Away
+26-12-2019 15:00,Everton,1.4,0.3,Burnley,Anthony Taylor,1.1,0.3,Moderate,Moderate,Low,High,Low,Home,1,0,Home
+04-02-2023 17:30,Newcastle Utd,1.0,1.0,West Ham,Peter Bankes,0.9,0.7,Low,Moderate,Low,High,Low,Home,1,1,Draw
+11-04-2021 14:05,West Ham,0.8,0.9,Leicester City,Mike Dean,0.8,0.5,Moderate,Low,Low,Low,Moderate,Home,3,2,Home
+09-04-2023 16:30,Liverpool,3.9,1.4,Arsenal,Paul Tierney,2.7,1.2,Moderate,Moderate,Moderate,Moderate,Moderate,Home,2,2,Draw
+24-10-2020 20:00,Liverpool,2.3,1.6,Sheffield Utd,Mike Dean,1.5,0.7,Low,Moderate,Low,High,Moderate,Home,2,1,Home
+25-02-2023 19:45,Crystal Palace,0.7,0.9,Liverpool,Darren England,0.4,0.7,Low,Moderate,Low,Moderate,Moderate,Home,0,0,Draw
+31-08-2019 15:00,Crystal Palace,1.4,0.4,Aston Villa,Kevin Friend,1.2,0.2,Low,Low,Moderate,Moderate,Moderate,Home,1,0,Home
+07-03-2021 19:15,Tottenham,2.7,0.5,Crystal Palace,Stuart Attwell,2.6,0.5,Moderate,Moderate,Low,Moderate,Low,Home,4,1,Home
+22-10-2021 20:00,Arsenal,2.7,1.4,Aston Villa,Craig Pawson,1.4,1.4,Moderate,Moderate,Moderate,High,Low,Home,3,1,Home
+24-05-2023 20:00,Brighton,2.2,1.8,Manchester City,Simon Hooper,2.0,1.8,Moderate,High,Moderate,High,Low,Home,1,1,Draw
+02-10-2021 15:00,Burnley,1.2,0.6,Norwich City,Kevin Friend,1.1,0.3,Low,Moderate,Low,High,Moderate,Home,0,0,Draw
+20-04-2019 17:30,Newcastle Utd,1.4,1.2,Southampton,Anthony Taylor,0.7,0.5,Low,Moderate,Moderate,Moderate,Low,Home,3,1,Home
+07-10-2018 14:15,Southampton,1.6,2.9,Chelsea,Craig Pawson,0.6,0.9,Low,Low,Moderate,Moderate,Low,Away,0,3,Away
+12-03-2023 16:30,Newcastle Utd,1.8,1.1,Wolves,Andy Madley,1.0,0.2,Low,Moderate,Moderate,High,Moderate,Home,2,1,Home
+28-11-2021 14:00,Manchester City,2.1,0.2,West Ham,Michael Oliver,1.4,0.1,Low,Moderate,Low,High,Low,Home,2,1,Home
+23-10-2021 15:00,Southampton,1.6,0.7,Burnley,Chris Kavanagh,0.9,0.7,Low,Moderate,Moderate,Moderate,Moderate,Home,2,2,Draw
+27-04-2019 15:00,Watford,0.8,2.0,Wolves,Simon Hooper,0.9,2.5,Moderate,Moderate,Moderate,Moderate,High,Away,1,2,Away
+23-02-2020 16:30,Arsenal,1.3,2.7,Everton,Stuart Attwell,1.3,2.6,Low,Moderate,Moderate,Moderate,Moderate,Home,3,2,Home
+12-11-2022 17:30,Newcastle Utd,1.0,0.3,Chelsea,Robert Jones,1.0,0.3,Moderate,High,Moderate,High,Low,Home,1,0,Home
+17-04-2021 20:15,Wolves,1.1,0.5,Sheffield Utd,Robert Jones,1.0,0.4,Low,Moderate,Moderate,Moderate,Low,Away,1,0,Home
+17-09-2022 17:30,Tottenham,2.2,1.8,Leicester City,Simon Hooper,1.7,0.9,Low,Low,Moderate,Low,Moderate,Home,6,2,Home
+01-11-2020 19:15,Tottenham,1.7,0.3,Brighton,Graham Scott,0.9,0.3,Moderate,Moderate,Moderate,High,High,Away,2,1,Home
+30-01-2019 19:45,Bournemouth,2.0,0.7,Chelsea,Roger East,1.8,0.7,Low,Low,Low,High,Low,Home,4,0,Home
+28-11-2021 16:30,Chelsea,2.7,0.9,Manchester Utd,Anthony Taylor,0.9,0.0,Low,Moderate,Low,Moderate,Low,Home,1,1,Draw
+13-08-2022 12:30,Aston Villa,2.3,1.6,Everton,Michael Oliver,2.1,0.7,Moderate,Moderate,High,Moderate,Low,Home,2,1,Home
+30-11-2021 20:15,Leeds United,1.4,1.1,Crystal Palace,Kevin Friend,0.3,0.8,Moderate,Moderate,Moderate,High,Moderate,Home,1,0,Home
+26-08-2018 13:30,Watford,1.2,1.0,Crystal Palace,Anthony Taylor,0.2,0.4,Low,Moderate,Moderate,High,Moderate,Home,2,1,Home
+03-09-2022 12:30,Everton,1.7,2.1,Liverpool,Anthony Taylor,1.3,1.5,Moderate,Moderate,Moderate,Moderate,Moderate,Away,0,0,Draw
+05-10-2018 20:00,Brighton,1.2,1.4,West Ham,Kevin Friend,1.3,0.7,Moderate,Moderate,Moderate,High,Low,Home,1,0,Home
+25-02-2023 15:00,West Ham,2.7,0.4,Nott'ham Forest,Jarred Gillett,2.7,0.4,Moderate,Low,Low,Moderate,Moderate,Away,4,0,Home
+02-10-2021 15:00,Chelsea,3.3,1.3,Southampton,Martin Atkinson,3.1,0.5,Low,Moderate,Moderate,High,Moderate,Away,3,1,Home
+06-11-2022 14:00,Aston Villa,0.6,0.5,Manchester Utd,Anthony Taylor,0.6,0.3,Low,Moderate,Moderate,High,Low,Away,3,1,Home
+02-11-2020 17:30,Fulham,1.5,0.5,West Brom,Simon Hooper,0.9,0.4,Low,Low,Moderate,Moderate,Moderate,Away,2,0,Home
+18-10-2020 14:00,Crystal Palace,0.8,1.7,Brighton,Stuart Attwell,0.0,0.8,Low,Low,Moderate,High,Low,Home,1,1,Draw
+14-04-2019 14:05,Crystal Palace,0.4,2.5,Manchester City,Martin Atkinson,0.7,0.4,Low,Moderate,Low,Moderate,Moderate,Away,1,3,Away
+12-01-2021 20:15,Wolves,0.7,0.6,Everton,Martin Atkinson,0.6,0.6,Low,Low,Low,High,Low,Away,1,2,Away
+11-05-2022 19:30,Leeds United,0.4,1.3,Chelsea,Anthony Taylor,0.4,1.2,Moderate,Moderate,Moderate,High,Moderate,Home,0,3,Away
+21-01-2020 20:15,Chelsea,2.9,0.4,Arsenal,Stuart Attwell,1.6,0.4,Moderate,Moderate,Low,High,Low,Home,2,2,Draw
+05-07-2020 16:30,Liverpool,0.7,0.7,Aston Villa,Paul Tierney,0.7,0.7,High,Low,Moderate,Moderate,High,Away,2,0,Home
+26-04-2023 20:00,Manchester City,2.5,0.5,Arsenal,Michael Oliver,2.5,0.3,Low,High,Low,Moderate,Low,Home,4,1,Home
+11-12-2021 15:00,Liverpool,2.2,0.2,Aston Villa,Stuart Attwell,0.8,0.2,Low,Moderate,Low,High,Moderate,Home,1,0,Home
+13-02-2021 17:30,Manchester City,2.2,0.3,Tottenham,Paul Tierney,1.4,0.1,Moderate,High,Low,Moderate,Moderate,Home,3,0,Home
+29-04-2023 15:00,Brentford,1.6,0.7,Nott'ham Forest,Peter Bankes,0.6,0.1,High,Moderate,Moderate,Moderate,Low,Home,2,1,Home
+28-12-2019 15:00,Southampton,1.4,0.3,Crystal Palace,Andy Madley,0.9,0.2,High,Moderate,Low,High,Low,Away,1,1,Draw
+13-02-2022 14:00,Tottenham,1.2,1.3,Wolves,Kevin Friend,0.9,0.6,Moderate,Moderate,Low,High,Moderate,Home,0,2,Away
+19-04-2022 20:00,Liverpool,2.0,0.1,Manchester Utd,Martin Atkinson,2.0,0.1,Low,Moderate,Moderate,High,Low,Away,4,0,Home
+26-12-2019 15:00,Chelsea,0.7,1.1,Southampton,Jonathan Moss,0.6,0.5,Moderate,Moderate,Low,High,High,Home,0,2,Away
+27-08-2022 15:00,Brentford,2.1,1.1,Everton,John Brooks,1.6,0.8,Low,Moderate,Moderate,Moderate,Low,Home,1,1,Draw
+25-11-2018 13:30,Bournemouth,0.6,1.6,Arsenal,Craig Pawson,1.6,0.9,Low,Low,Low,High,Moderate,Away,1,2,Away
+28-12-2021 20:00,Leicester City,0.4,2.3,Liverpool,Michael Oliver,0.4,1.1,High,Low,Low,High,Low,Home,1,0,Home
+22-10-2022 12:30,Nott'ham Forest,1.9,1.6,Liverpool,Paul Tierney,1.4,1.5,Moderate,Moderate,Moderate,High,Moderate,Home,1,0,Home
+28-12-2020 15:00,Crystal Palace,0.5,1.9,Leicester City,Graham Scott,0.5,0.9,High,Moderate,Low,High,Low,Away,1,1,Draw
+21-01-2020 19:30,Bournemouth,1.4,1.8,Brighton,Kevin Friend,0.7,0.9,Moderate,Moderate,Low,High,Low,Home,3,1,Home
+26-12-2020 15:00,Fulham,0.7,0.2,Southampton,Darren England,0.7,0.1,Moderate,Low,Low,High,Moderate,Away,0,0,Draw
+20-08-2022 15:00,Leicester City,0.3,0.9,Southampton,Michael Salisbury,0.1,0.9,Low,Low,Moderate,Moderate,Moderate,Home,1,2,Away
+14-09-2019 15:00,Wolves,1.7,2.7,Chelsea,Graham Scott,0.4,2.1,Low,Low,Moderate,Moderate,Low,Away,2,5,Away
+26-12-2020 17:30,Arsenal,2.0,2.6,Chelsea,Michael Oliver,0.6,1.6,Low,Moderate,Low,High,Moderate,Away,3,1,Home
+22-09-2019 14:00,Crystal Palace,0.9,1.5,Wolves,Stuart Attwell,0.7,1.4,Low,Low,Moderate,High,Low,Home,1,1,Draw
+02-02-2020 14:00,Burnley,1.9,1.2,Arsenal,Chris Kavanagh,2.0,1.2,Low,Moderate,Low,High,Moderate,Home,0,0,Draw
+01-01-2020 17:30,Manchester City,1.5,1.0,Everton,Andre Marriner,1.5,0.3,High,Moderate,Low,High,Low,Away,2,1,Home
+15-02-2022 20:15,Manchester Utd,1.7,0.7,Brighton,Peter Bankes,1.5,0.7,Moderate,High,Low,High,Low,Home,2,0,Home
+27-02-2019 20:00,Crystal Palace,1.7,1.0,Manchester Utd,Martin Atkinson,0.6,1.4,Moderate,High,Moderate,High,Low,Away,1,3,Away
+11-02-2023 15:00,Leicester City,1.7,1.3,Tottenham,Michael Salisbury,1.5,0.4,Low,Moderate,Moderate,Moderate,Low,Home,4,1,Home
+01-12-2021 19:30,Southampton,1.5,1.5,Leicester City,Robert Jones,1.1,0.8,Moderate,Moderate,Low,High,Moderate,Away,2,2,Draw
+21-02-2021 12:00,West Ham,1.1,1.1,Tottenham,Craig Pawson,0.8,0.8,Moderate,Low,Moderate,High,Low,Home,2,1,Home
+01-09-2018 17:30,Manchester City,2.0,0.5,Newcastle Utd,Kevin Friend,0.8,1.6,Low,Moderate,Moderate,Moderate,Low,Home,2,1,Home
+19-12-2020 12:30,Crystal Palace,0.3,2.5,Liverpool,Jonathan Moss,0.3,2.3,High,High,Moderate,High,Moderate,Away,0,7,Away
+11-08-2019 16:30,Manchester Utd,2.2,1.0,Chelsea,Anthony Taylor,1.3,0.8,Low,Moderate,Moderate,High,Moderate,Home,4,0,Home
+15-01-2022 12:30,Manchester City,1.0,0.3,Chelsea,Craig Pawson,0.9,0.2,Low,Moderate,Low,High,Low,Home,1,0,Home
+02-12-2018 14:05,Arsenal,2.7,1.2,Tottenham,Mike Dean,0.8,0.5,Low,Low,Moderate,High,Moderate,Home,4,2,Home
+19-12-2021 16:30,Tottenham,3.0,1.1,Liverpool,Paul Tierney,1.9,1.0,Low,High,Low,High,Low,Home,2,2,Draw
+26-12-2018 15:00,Burnley,2.0,1.5,Everton,Michael Oliver,2.6,0.4,Moderate,Moderate,Low,High,Low,Away,1,5,Away
+08-12-2019 14:00,Norwich City,0.7,0.8,Sheffield Utd,Simon Hooper,0.6,0.6,Moderate,Moderate,Low,Moderate,High,Away,1,2,Away
+04-09-2022 14:00,Brighton,2.6,1.4,Leicester City,Tony Harrington,1.4,1.4,Moderate,Moderate,Moderate,High,Moderate,Home,5,2,Home
+05-10-2019 15:00,Watford,1.4,0.4,Sheffield Utd,Andre Marriner,1.4,0.2,Low,Low,Moderate,Moderate,Low,Away,0,0,Draw
+22-09-2018 15:00,Burnley,2.1,1.0,Bournemouth,Anthony Taylor,0.7,0.8,Moderate,Moderate,Moderate,Moderate,Low,Home,4,0,Home
+16-07-2020 20:15,Southampton,2.5,0.7,Brighton,Andre Marriner,1.6,0.4,Moderate,Moderate,Moderate,Moderate,Low,Away,1,1,Draw
+14-08-2021 15:00,Everton,2.4,0.8,Southampton,Andy Madley,2.3,0.8,Low,Moderate,Moderate,High,Low,Away,3,1,Home
+12-02-2022 17:30,Norwich City,0.4,4.6,Manchester City,Andre Marriner,0.4,3.6,High,High,Low,Moderate,Moderate,Away,0,4,Away
+02-05-2021 14:00,Newcastle Utd,0.3,2.0,Arsenal,Mike Dean,0.3,1.9,Low,Moderate,Moderate,Moderate,Moderate,Home,0,2,Away
+25-02-2023 15:00,Leeds United,0.9,0.4,Southampton,Peter Bankes,0.5,0.4,Low,Low,Low,High,Moderate,Home,1,0,Home
+08-05-2022 14:00,Arsenal,2.0,0.3,Leeds United,Chris Kavanagh,1.1,0.3,Moderate,Low,Moderate,Moderate,Low,Home,2,1,Home
+16-04-2022 15:00,Manchester Utd,1.9,1.5,Norwich City,Andy Madley,1.8,1.4,Low,High,Moderate,Moderate,Moderate,Away,3,2,Home
+22-01-2023 14:00,Manchester City,2.8,0.8,Wolves,David Coote,2.0,0.6,High,Low,Low,High,Low,Home,3,0,Home
+20-11-2021 15:00,Newcastle Utd,1.5,0.9,Brentford,Robert Jones,1.0,0.6,Low,Moderate,Moderate,High,Moderate,Away,3,3,Draw
+02-02-2019 15:00,Everton,1.2,1.4,Wolves,Lee Mason,1.8,0.7,Low,Moderate,Low,Moderate,Moderate,Home,1,3,Away
+28-09-2019 15:00,Bournemouth,1.9,1.6,West Ham,Stuart Attwell,1.9,1.3,Low,Moderate,Moderate,High,Moderate,Home,2,2,Draw
+20-05-2023 15:00,Liverpool,0.7,1.3,Aston Villa,John Brooks,0.7,0.6,Moderate,Low,Moderate,Moderate,Low,Home,1,1,Draw
+30-08-2022 20:00,Leeds United,1.0,1.0,Everton,Darren England,0.5,0.9,Moderate,High,Moderate,High,Low,Home,1,1,Draw
+06-08-2022 12:30,Fulham,1.2,1.2,Liverpool,Andy Madley,0.4,0.9,Low,Moderate,Moderate,Low,Low,Home,2,2,Draw
+08-05-2023 17:30,Brighton,3.2,2.3,Everton,Simon Hooper,2.1,2.2,Moderate,High,Moderate,High,Low,Home,1,5,Away
+11-01-2020 15:00,Leicester City,0.7,2.1,Southampton,Lee Mason,0.7,1.5,Low,Low,Low,High,Moderate,Home,1,2,Away
+20-10-2018 15:00,Cardiff City,1.5,0.7,Fulham,Kevin Friend,2.0,0.5,Low,Low,Moderate,High,Low,Home,4,2,Home
+29-09-2018 15:00,Manchester City,2.7,0.2,Brighton,Lee Mason,0.9,0.7,Low,High,Moderate,Moderate,Moderate,Home,2,0,Home
+13-03-2022 14:00,Leeds United,2.5,1.5,Norwich City,Stuart Attwell,2.4,1.1,High,Moderate,Low,High,Moderate,Home,2,1,Home
+28-12-2019 17:30,West Ham,1.0,2.5,Leicester City,David Coote,0.8,1.5,High,Moderate,Low,High,Low,Home,1,2,Away
+20-10-2018 15:00,Bournemouth,0.9,0.5,Southampton,Lee Probert,2.4,0.4,Low,Low,Moderate,Moderate,Low,Home,0,0,Draw
+13-08-2021 20:00,Brentford,1.2,1.3,Arsenal,Michael Oliver,0.8,1.1,Low,Low,Moderate,High,Low,Home,2,0,Home
+23-02-2019 17:30,Leicester City,1.2,1.7,Crystal Palace,Anthony Taylor,2.0,0.2,Low,Low,Moderate,High,Low,Home,1,4,Away
+29-01-2019 20:00,Newcastle Utd,1.1,1.4,Manchester City,Paul Tierney,0.9,0.7,Low,Low,Low,High,Moderate,Away,2,1,Home
+07-10-2018 12:00,Fulham,1.4,1.1,Arsenal,Paul Tierney,1.0,0.5,Low,Low,Moderate,Moderate,Low,Away,1,5,Away
+26-12-2018 12:30,Fulham,1.2,1.4,Wolves,Andre Marriner,2.6,0.6,Moderate,Moderate,Low,High,Low,Away,1,1,Draw
+01-01-2022 12:30,Arsenal,0.8,2.0,Manchester City,Stuart Attwell,0.3,1.0,Moderate,High,Moderate,Moderate,Moderate,Home,1,2,Away
+16-02-2020 14:00,Aston Villa,1.8,3.4,Tottenham,Martin Atkinson,1.6,1.8,Low,Low,Low,High,Moderate,Away,2,3,Away
+06-05-2023 15:00,Tottenham,0.9,0.4,Crystal Palace,Darren England,0.9,0.3,Moderate,Low,Moderate,High,Low,Home,1,0,Home
+02-03-2019 15:00,Bournemouth,0.0,1.2,Manchester City,Kevin Friend,0.4,1.7,High,High,Moderate,High,Moderate,Home,0,1,Away
+30-10-2021 17:30,Tottenham,1.0,1.5,Manchester Utd,Stuart Attwell,0.9,1.4,Moderate,High,Moderate,Moderate,Low,Home,0,3,Away
+06-11-2021 15:00,Crystal Palace,1.9,0.3,Wolves,Graham Scott,1.9,0.2,Low,Moderate,Moderate,High,Moderate,Away,2,0,Home
+23-11-2019 15:00,Bournemouth,0.6,1.1,Wolves,Simon Hooper,0.5,0.8,Low,Low,Moderate,High,Low,Away,1,2,Away
+21-12-2019 17:30,Manchester City,3.3,1.1,Leicester City,Mike Dean,2.6,1.1,Moderate,Low,Low,High,Low,Home,3,1,Home
+12-03-2021 20:00,Newcastle Utd,1.5,0.9,Aston Villa,Paul Tierney,1.4,0.8,Moderate,High,Low,High,Low,Home,1,1,Draw
+02-01-2022 14:00,Everton,1.6,1.7,Brighton,John Brooks,0.7,1.6,Low,High,Low,High,Moderate,Home,2,3,Away
+15-12-2020 18:00,Wolves,0.5,1.0,Chelsea,Stuart Attwell,0.4,0.6,Moderate,Moderate,Low,High,Low,Home,2,1,Home
+30-03-2019 15:00,Leicester City,1.3,0.8,Bournemouth,Lee Mason,0.8,0.3,Low,Low,Moderate,Moderate,Low,Home,2,0,Home
+28-11-2021 14:00,Leicester City,2.1,2.8,Watford,Andy Madley,1.4,1.3,Low,Low,Low,Moderate,Low,Away,4,2,Home
+16-03-2022 19:30,Brighton,0.7,2.2,Tottenham,Robert Jones,0.5,1.2,Moderate,Moderate,Low,High,Moderate,Away,0,2,Away
+04-09-2022 16:30,Manchester Utd,1.5,1.3,Arsenal,Paul Tierney,1.6,1.0,High,High,Moderate,Moderate,Moderate,Home,3,1,Home
+02-02-2019 15:00,Crystal Palace,2.2,0.6,Fulham,Michael Oliver,0.3,0.9,High,Moderate,Low,High,Moderate,Away,2,0,Home
+20-10-2018 15:00,Newcastle Utd,1.8,0.8,Brighton,Andre Marriner,0.5,1.0,Low,Moderate,Moderate,High,Moderate,Away,0,1,Away
+15-04-2023 15:00,Southampton,0.8,0.9,Crystal Palace,Michael Oliver,0.6,0.3,Moderate,Moderate,Moderate,Moderate,Low,Home,0,2,Away
+03-10-2022 20:00,Leicester City,1.3,1.1,Nott'ham Forest,Robert Jones,1.0,1.0,Low,Low,Moderate,High,Low,Home,4,0,Home
+10-11-2018 12:30,Cardiff City,2.1,0.5,Brighton,Martin Atkinson,1.3,0.9,Moderate,Moderate,Moderate,High,Moderate,Away,2,1,Home
+14-07-2020 20:15,Chelsea,2.5,0.1,Norwich City,Jonathan Moss,2.0,0.1,Moderate,Moderate,Moderate,Moderate,Low,Home,1,0,Home
+29-12-2021 20:15,Brentford,0.4,1.1,Manchester City,David Coote,0.3,0.9,Moderate,High,Moderate,High,Moderate,Home,0,1,Away
+29-02-2020 17:30,Watford,2.3,0.3,Liverpool,Michael Oliver,1.7,0.2,Moderate,High,Low,High,High,Away,3,0,Home
+19-08-2019 20:00,Wolves,0.3,1.2,Manchester Utd,Jonathan Moss,0.2,0.2,Low,Low,Moderate,Moderate,Low,Home,1,1,Draw
+19-02-2022 15:00,Arsenal,1.7,0.6,Brentford,Jonathan Moss,1.0,0.6,Low,Low,Low,High,High,Away,2,1,Home
+12-12-2020 17:30,Manchester Utd,0.6,1.3,Manchester City,Chris Kavanagh,0.6,1.2,Low,Low,Low,High,Low,Away,0,0,Draw
+20-04-2019 15:00,Wolves,2.7,0.2,Brighton,Craig Pawson,1.3,0.9,Low,Moderate,Moderate,Low,Low,Away,0,0,Draw
+01-05-2021 17:30,Chelsea,1.7,0.3,Fulham,Kevin Friend,1.6,0.3,Low,Low,Moderate,Moderate,Low,Away,2,0,Home
+30-10-2021 15:00,Watford,1.0,1.8,Southampton,Peter Bankes,0.9,1.7,Low,Low,Moderate,Moderate,Moderate,Home,0,1,Away
+12-09-2020 12:30,Fulham,0.1,1.9,Arsenal,Chris Kavanagh,0.1,0.8,Low,Low,Moderate,Moderate,Moderate,Away,0,3,Away
+01-09-2018 15:00,Chelsea,1.1,0.9,Bournemouth,Lee Mason,1.5,0.4,Moderate,Low,Moderate,Moderate,Low,Home,2,0,Home
+22-05-2023 20:00,Newcastle Utd,2.1,0.1,Leicester City,Andre Marriner,0.9,0.1,Moderate,Moderate,Moderate,High,Low,Home,0,0,Draw
+05-01-2023 20:00,Chelsea,0.4,2.0,Manchester City,Paul Tierney,0.4,1.8,Moderate,High,Moderate,High,Moderate,Home,0,1,Away
+17-10-2021 14:00,Everton,0.9,1.2,West Ham,Stuart Attwell,0.5,0.9,Low,Moderate,Moderate,High,Moderate,Home,0,1,Away
+27-10-2019 16:30,Arsenal,1.3,1.6,Crystal Palace,Martin Atkinson,0.6,0.7,Moderate,Low,Moderate,Moderate,Low,Away,2,2,Draw
+11-01-2020 15:00,Manchester Utd,2.9,0.3,Norwich City,Anthony Taylor,2.0,0.1,Low,Moderate,Moderate,High,Moderate,Home,4,0,Home
+20-07-2020 20:15,Wolves,1.5,0.4,Crystal Palace,Peter Bankes,1.3,0.3,Moderate,Moderate,Moderate,Moderate,Low,Home,2,0,Home
+04-12-2019 19:30,Southampton,1.7,0.9,Norwich City,Kevin Friend,1.6,0.8,Moderate,High,Low,High,Low,Home,2,1,Home
+09-04-2022 15:00,Arsenal,1.9,0.6,Brighton,David Coote,1.2,0.5,Moderate,Low,Moderate,Low,Moderate,Home,1,2,Away
+01-12-2021 20:15,Aston Villa,0.8,1.0,Manchester City,Mike Dean,0.8,0.7,Moderate,Moderate,Low,High,Moderate,Away,1,2,Away
+07-05-2022 15:00,Burnley,1.9,2.1,Aston Villa,David Coote,1.5,1.6,Low,Low,Moderate,High,Low,Home,1,3,Away
+15-05-2022 14:00,Aston Villa,1.0,1.4,Crystal Palace,Chris Kavanagh,0.8,1.4,Moderate,Low,Moderate,Moderate,Moderate,Home,1,1,Draw
+05-03-2022 15:00,Norwich City,1.0,2.0,Brentford,Anthony Taylor,0.8,0.3,Low,Low,Low,High,Low,Home,1,3,Away
+19-05-2022 20:00,Aston Villa,1.5,1.6,Burnley,Paul Tierney,1.2,0.8,Moderate,Moderate,Moderate,Moderate,Low,Home,1,1,Draw
+17-09-2018 20:00,Southampton,2.0,1.4,Brighton,Anthony Taylor,0.4,0.3,Low,Low,Moderate,Moderate,Low,Home,2,2,Draw
+26-12-2018 17:15,Brighton,1.1,0.8,Arsenal,Anthony Taylor,1.5,0.5,Moderate,Moderate,Low,High,Low,Home,1,1,Draw
+30-10-2021 12:30,Leicester City,1.3,0.7,Arsenal,Michael Oliver,0.8,0.5,Moderate,Low,Moderate,High,Moderate,Home,0,2,Away
+05-02-2022 18:00,Burnley,0.6,0.8,Watford,Craig Pawson,0.4,0.8,Low,Moderate,Low,High,High,Home,0,0,Draw
+21-04-2023 20:00,Arsenal,2.5,1.3,Southampton,Simon Hooper,2.2,1.1,Moderate,Moderate,Low,Moderate,Low,Home,3,3,Draw
+28-12-2019 15:00,Watford,2.8,0.6,Aston Villa,Simon Hooper,1.3,0.6,High,Moderate,Low,High,Low,Away,3,0,Home
+01-02-2020 15:00,Watford,0.9,2.2,Everton,Craig Pawson,0.6,1.4,Low,Moderate,Moderate,Moderate,High,Home,2,3,Away
+21-04-2019 13:30,Everton,1.6,0.3,Manchester Utd,Paul Tierney,1.6,1.0,Low,Low,Moderate,Moderate,Low,Away,4,0,Home
+28-04-2019 14:05,Burnley,0.1,2.5,Manchester City,Paul Tierney,0.2,2.4,Moderate,Moderate,Moderate,Moderate,Low,Away,0,1,Away
+15-01-2023 16:30,Tottenham,1.6,1.8,Arsenal,Craig Pawson,1.3,1.6,Low,Low,Low,Moderate,Moderate,Away,0,2,Away
+22-11-2020 19:15,Liverpool,3.1,1.6,Leicester City,Chris Kavanagh,2.7,0.8,Low,Low,Low,High,Moderate,Away,3,0,Home
+26-01-2021 20:15,Southampton,0.8,2.2,Arsenal,Kevin Friend,0.5,2.2,Low,Low,Low,High,Moderate,Away,1,3,Away
+06-05-2023 15:00,Bournemouth,1.2,1.3,Chelsea,John Brooks,1.3,0.8,Moderate,Moderate,Moderate,High,Moderate,Home,1,3,Away
+02-01-2019 19:45,Bournemouth,2.2,0.9,Watford,David Coote,1.1,0.5,Moderate,Moderate,Low,Moderate,Low,Home,3,3,Draw
+18-01-2020 12:30,Watford,2.5,1.9,Tottenham,Michael Oliver,1.6,1.4,Moderate,Moderate,Low,High,Low,Away,0,0,Draw
+28-08-2021 15:00,West Ham,1.3,1.1,Crystal Palace,Stuart Attwell,1.2,1.0,Moderate,Low,Moderate,Moderate,Low,Home,2,2,Draw
+06-04-2019 15:00,Newcastle Utd,0.9,0.9,Crystal Palace,Stuart Attwell,0.1,1.9,Moderate,High,Low,High,Low,Away,0,1,Away
+23-01-2021 20:00,Aston Villa,2.3,0.5,Newcastle Utd,Simon Hooper,0.9,0.5,Moderate,High,Low,High,Low,Away,2,0,Home
+09-11-2019 12:30,Chelsea,3.6,0.2,Crystal Palace,Mike Dean,2.3,0.2,Moderate,Moderate,Low,High,Low,Home,2,0,Home
+19-09-2020 12:30,Everton,3.9,0.3,West Brom,Mike Dean,1.9,0.2,Moderate,Low,Moderate,Moderate,Moderate,Home,5,2,Home
+19-12-2021 14:00,Wolves,0.2,0.9,Chelsea,David Coote,0.2,0.9,Moderate,Moderate,Low,High,Low,Home,0,0,Draw
+06-11-2022 14:00,West Ham,0.3,1.0,Crystal Palace,Paul Tierney,0.2,0.8,Moderate,Low,Moderate,High,Moderate,Home,1,2,Away
+03-01-2023 19:45,Leicester City,1.7,1.7,Fulham,Darren Bond,1.5,1.5,Moderate,Moderate,Moderate,High,Moderate,Home,0,1,Away
+07-11-2021 16:30,West Ham,1.0,1.2,Liverpool,Craig Pawson,1.0,1.1,Low,Moderate,Moderate,Moderate,Low,Home,3,2,Home
+20-08-2022 15:00,Everton,1.5,1.0,Nott'ham Forest,Andre Marriner,1.1,0.6,Low,Moderate,Moderate,Moderate,High,Home,1,1,Draw
+02-12-2018 12:00,Chelsea,2.1,0.4,Fulham,Craig Pawson,0.1,0.3,Low,Low,Moderate,High,Moderate,Away,2,0,Home
+11-08-2019 14:00,Leicester City,0.7,0.7,Wolves,Andre Marriner,0.6,0.7,Low,Low,Moderate,High,Moderate,Away,0,0,Draw
+16-10-2022 14:00,Aston Villa,1.8,0.9,Chelsea,Robert Jones,1.1,0.5,Moderate,Low,Moderate,Moderate,Low,Home,0,2,Away
+27-11-2021 12:30,Arsenal,2.5,0.3,Newcastle Utd,Stuart Attwell,2.1,0.1,Moderate,High,Low,High,Moderate,Home,2,0,Home
+16-01-2021 12:30,Wolves,1.5,2.4,West Brom,Michael Oliver,1.1,0.7,Moderate,Low,Low,High,Low,Away,2,3,Away
+25-04-2023 19:30,Wolves,1.4,0.8,Crystal Palace,Robert Jones,0.5,0.7,Moderate,Moderate,Low,Moderate,Low,Home,2,0,Home
+18-05-2021 18:00,Southampton,1.6,1.7,Leeds United,Peter Bankes,0.8,1.3,Moderate,Moderate,Moderate,High,Moderate,Away,0,2,Away
+19-10-2019 12:30,Everton,2.1,0.8,West Ham,Paul Tierney,1.4,0.7,Low,Moderate,Moderate,High,Low,Away,2,0,Home
+12-01-2019 17:30,Chelsea,1.3,0.5,Newcastle Utd,Chris Kavanagh,0.9,0.7,Low,Moderate,Low,High,Moderate,Home,2,1,Home
+19-10-2019 15:00,Tottenham,1.0,0.7,Watford,Chris Kavanagh,0.4,0.5,Low,Low,Moderate,Moderate,Moderate,Home,1,1,Draw
+27-01-2021 20:15,Everton,0.5,1.2,Leicester City,Mike Dean,0.4,0.5,Low,Low,Low,High,Low,Home,1,1,Draw
+29-10-2022 15:00,Newcastle Utd,3.4,0.4,Aston Villa,Paul Tierney,1.9,0.4,Moderate,High,Moderate,High,Low,Home,4,0,Home
+21-08-2021 17:30,Brighton,1.3,0.5,Watford,Anthony Taylor,0.7,0.6,Low,Low,Moderate,High,Low,Home,2,0,Home
+10-03-2019 12:00,Liverpool,4.0,0.4,Burnley,Andre Marriner,2.1,0.7,Moderate,Low,Low,Moderate,High,Away,4,2,Home
+30-04-2022 15:00,Watford,1.0,1.6,Burnley,Craig Pawson,0.7,0.9,Low,High,Moderate,Low,Low,Home,1,2,Away
+06-10-2018 15:00,Crystal Palace,1.4,0.7,Wolves,Michael Oliver,3.3,0.3,Moderate,Low,Low,High,Moderate,Away,0,1,Away
+18-05-2023 19:30,Newcastle Utd,3.6,0.5,Brighton,Robert Jones,2.6,0.5,Moderate,High,Moderate,Moderate,Low,Home,4,1,Home
+13-12-2020 16:30,Fulham,1.5,1.8,Liverpool,Andre Marriner,0.7,0.8,Low,High,Low,High,Moderate,Away,1,1,Draw
+20-04-2022 20:00,Manchester City,1.3,0.2,Brighton,Mike Dean,0.8,0.1,Low,High,Moderate,Moderate,Low,Away,3,0,Home
+01-02-2020 15:00,West Ham,0.8,1.9,Brighton,Michael Oliver,0.7,1.5,High,Low,Moderate,Moderate,High,Away,3,3,Draw
+20-05-2023 12:30,Tottenham,1.8,1.3,Brentford,Jarred Gillett,1.3,1.0,Moderate,Moderate,Moderate,Moderate,Moderate,Away,1,3,Away
+18-10-2022 20:15,Crystal Palace,1.2,0.8,Wolves,David Coote,1.1,0.6,Moderate,Moderate,Moderate,High,Low,Home,2,1,Home
+01-03-2020 14:00,Everton,2.1,1.1,Manchester Utd,Chris Kavanagh,1.5,0.4,Moderate,Low,Low,Moderate,High,Home,1,1,Draw
+31-10-2020 12:30,Sheffield Utd,0.5,1.6,Manchester City,Michael Oliver,0.5,1.2,Moderate,Low,Moderate,High,High,Away,0,1,Away
+09-08-2019 20:00,Liverpool,1.8,0.9,Norwich City,Michael Oliver,1.6,0.8,Low,Moderate,Moderate,High,Moderate,Away,4,1,Home
+29-02-2020 12:30,Brighton,2.2,2.5,Crystal Palace,Martin Atkinson,1.7,2.2,Moderate,Moderate,Low,Moderate,High,Away,0,1,Away
+18-01-2021 20:00,Arsenal,2.4,0.2,Newcastle Utd,David Coote,1.7,0.2,Moderate,High,Low,High,Moderate,Away,3,0,Home
+03-05-2019 20:00,Everton,1.7,0.3,Burnley,Chris Kavanagh,2.0,0.1,Moderate,Moderate,Low,High,Moderate,Home,2,0,Home
+24-04-2022 14:00,Burnley,1.4,0.6,Wolves,Anthony Taylor,1.4,0.5,High,Low,Moderate,Moderate,Moderate,Home,1,0,Home
+22-05-2022 16:00,Brighton,1.6,0.2,West Ham,Kevin Friend,1.3,0.1,Low,Low,Moderate,Moderate,Low,Home,3,1,Home
+01-10-2022 15:00,Southampton,1.7,2.0,Everton,Andre Marriner,1.3,1.7,Low,Moderate,Moderate,Moderate,High,Home,1,2,Away
+25-06-2020 18:00,Burnley,0.9,0.7,Watford,Mike Dean,0.7,0.5,High,High,High,Moderate,Moderate,Home,1,0,Home
+06-10-2019 14:00,Arsenal,1.2,0.6,Bournemouth,Martin Atkinson,1.1,0.5,Moderate,Low,Moderate,Moderate,Moderate,Away,1,0,Home
+23-01-2022 14:00,Arsenal,1.2,0.4,Burnley,David Coote,1.0,0.3,Low,Moderate,Low,High,Low,Home,0,0,Draw
+19-04-2021 20:00,Leeds United,2.3,1.4,Liverpool,Anthony Taylor,1.9,1.0,Low,Moderate,Low,High,Low,Away,1,1,Draw
+09-04-2022 15:00,Southampton,0.5,4.2,Chelsea,Kevin Friend,0.5,1.7,Low,Low,Moderate,Moderate,Moderate,Home,0,6,Away
+13-03-2021 12:30,Leeds United,0.4,1.0,Chelsea,Kevin Friend,0.3,0.7,Moderate,Moderate,Low,Moderate,High,Away,0,0,Draw
+09-03-2019 15:00,Newcastle Utd,2.4,1.1,Everton,Lee Mason,0.8,2.0,Moderate,Moderate,Low,High,High,Home,3,2,Home
+29-12-2020 18:00,Brighton,0.8,1.1,Arsenal,Martin Atkinson,0.7,1.0,High,Moderate,Low,High,Low,Away,0,1,Away
+24-02-2019 14:05,Arsenal,2.1,0.8,Southampton,Graham Scott,1.1,1.2,Low,Low,Moderate,Moderate,Low,Home,2,0,Home
+10-12-2021 20:00,Brentford,1.6,0.5,Watford,Michael Oliver,0.6,0.4,Moderate,Moderate,Low,High,Low,Home,2,1,Home
+23-02-2020 14:00,Manchester Utd,2.4,0.3,Watford,Martin Atkinson,1.2,0.2,Moderate,Low,Low,Moderate,High,Away,3,0,Home
+13-02-2022 16:30,Leicester City,1.4,1.1,West Ham,Michael Oliver,0.5,0.9,High,Moderate,Low,High,Moderate,Home,2,2,Draw
+14-03-2021 16:30,Arsenal,1.7,0.4,Tottenham,Michael Oliver,0.9,0.2,Low,Moderate,Low,Moderate,Moderate,Away,2,1,Home
+23-11-2019 15:00,Arsenal,1.8,2.4,Southampton,Stuart Attwell,0.7,1.4,Low,Low,Moderate,High,Low,Home,2,2,Draw
+24-10-2021 14:00,Brentford,1.0,1.5,Leicester City,Simon Hooper,0.8,1.4,Low,Low,Moderate,Moderate,Moderate,Away,1,2,Away
+21-01-2021 20:00,Liverpool,1.6,1.1,Burnley,Mike Dean,1.2,0.3,Moderate,Moderate,Low,High,Moderate,Home,0,1,Away
+26-09-2020 15:00,Crystal Palace,0.4,1.9,Everton,Kevin Friend,0.3,0.9,Moderate,Moderate,Moderate,Moderate,Moderate,Away,1,2,Away
+18-01-2020 15:00,West Ham,1.3,1.7,Everton,Andre Marriner,1.2,1.6,Low,Moderate,Low,Moderate,Low,Away,1,1,Draw
+07-10-2018 16:30,Liverpool,0.4,1.0,Manchester City,Martin Atkinson,1.1,0.5,Low,Low,Moderate,Moderate,Moderate,Away,0,0,Draw
+23-10-2021 15:00,Crystal Palace,1.9,0.3,Newcastle Utd,Darren England,1.5,0.2,Moderate,High,Moderate,Moderate,Low,Home,1,1,Draw
+03-03-2019 16:15,Everton,0.3,1.1,Liverpool,Martin Atkinson,1.7,0.3,Moderate,Moderate,Low,High,Moderate,Away,0,0,Draw
+22-09-2018 17:30,Brighton,0.8,1.9,Tottenham,Chris Kavanagh,1.5,0.5,Moderate,Low,Moderate,High,Low,Home,1,2,Away
+01-01-2022 15:00,Watford,0.3,2.2,Tottenham,Robert Jones,0.2,2.1,Moderate,Moderate,Moderate,High,Moderate,Away,0,1,Away
+26-09-2021 16:30,Arsenal,1.1,1.0,Tottenham,Craig Pawson,0.7,1.0,Low,Low,Moderate,Moderate,Moderate,Home,3,1,Home
+19-01-2020 16:30,Liverpool,1.9,1.3,Manchester Utd,Craig Pawson,1.8,1.1,Low,Low,Low,High,Low,Home,2,0,Home
+06-05-2019 20:00,Manchester City,1.0,0.5,Leicester City,Mike Dean,1.1,0.7,Low,Low,Low,Moderate,Low,Home,1,0,Home
+15-12-2021 19:30,Crystal Palace,1.2,0.6,Southampton,Simon Hooper,0.7,0.4,Moderate,Moderate,Moderate,High,Low,Away,2,2,Draw
+07-05-2023 16:30,Newcastle Utd,1.3,1.3,Arsenal,Chris Kavanagh,1.3,1.2,Low,High,Moderate,High,Low,Away,0,2,Away
+13-02-2021 20:00,Brighton,2.2,0.1,Aston Villa,Darren England,1.8,0.1,Low,Low,Low,Moderate,Moderate,Away,0,0,Draw
+14-08-2021 15:00,Chelsea,0.7,0.2,Crystal Palace,Jonathan Moss,0.2,0.2,Low,Low,Moderate,Moderate,Moderate,Away,3,0,Home
+13-12-2020 12:00,Southampton,2.0,0.3,Sheffield Utd,Andy Madley,1.8,0.3,Moderate,High,Low,High,Moderate,Away,3,0,Home
+08-02-2022 19:45,West Ham,0.8,0.3,Watford,Martin Atkinson,0.6,0.3,Low,Moderate,Moderate,Moderate,Moderate,Away,1,0,Home
+03-11-2019 14:00,Crystal Palace,0.5,1.1,Leicester City,Paul Tierney,0.3,0.9,Moderate,Low,Moderate,High,Low,Away,0,2,Away
+04-12-2019 19:30,Chelsea,1.8,1.0,Aston Villa,Chris Kavanagh,1.6,0.9,Moderate,Moderate,Low,High,Low,Home,2,1,Home
+24-08-2019 15:00,Brighton,0.8,1.7,Southampton,Kevin Friend,0.8,2.0,Low,Low,High,Moderate,Low,Home,0,2,Away
+31-01-2021 12:00,Chelsea,1.2,0.2,Burnley,Graham Scott,1.1,0.2,Moderate,High,Low,High,Moderate,Away,2,0,Home
+21-12-2020 17:30,Burnley,1.7,1.5,Wolves,Lee Mason,0.9,0.5,Moderate,Moderate,Low,High,Low,Away,2,1,Home
+15-05-2023 20:00,Leicester City,0.4,2.2,Liverpool,Craig Pawson,0.3,2.1,Low,Low,Moderate,Moderate,Moderate,Away,0,3,Away
+12-01-2021 18:00,Sheffield Utd,2.1,0.6,Newcastle Utd,Andy Madley,1.2,0.5,Low,Low,Low,High,Low,Away,1,0,Home
+15-03-2023 19:30,Southampton,0.5,1.9,Brentford,Michael Salisbury,0.2,1.9,Moderate,Moderate,Low,High,Moderate,Home,0,2,Away
+12-01-2019 15:00,Crystal Palace,1.3,1.6,Watford,Paul Tierney,0.3,0.9,Low,Low,Low,High,Moderate,Away,1,2,Away
+14-05-2023 14:00,Brentford,3.4,0.2,West Ham,Michael Oliver,2.9,0.1,Low,Moderate,Moderate,Moderate,Low,Home,2,0,Home
+07-08-2022 14:00,Leicester City,0.6,0.8,Brentford,Jarred Gillett,0.5,0.7,Low,Low,Moderate,Moderate,Low,Away,2,2,Draw
+01-01-2020 15:00,Southampton,1.3,0.9,Tottenham,Mike Dean,1.3,0.7,Moderate,Moderate,Low,High,Low,Home,1,0,Home
+15-08-2021 14:00,Newcastle Utd,1.8,2.7,West Ham,Martin Atkinson,1.5,1.8,Low,Moderate,Moderate,High,Low,Away,2,4,Away
+22-04-2023 15:00,Brentford,2.7,1.5,Aston Villa,Michael Salisbury,1.6,1.6,Low,Low,Moderate,Moderate,Low,Home,1,1,Draw
+08-12-2018 19:45,Leicester City,0.4,0.9,Tottenham,Craig Pawson,0.6,0.7,Moderate,Moderate,Low,High,High,Away,0,2,Away
+27-02-2021 20:00,Newcastle Utd,1.7,1.1,Wolves,Mike Dean,1.6,1.1,Moderate,Moderate,Low,High,Low,Home,1,1,Draw
+14-12-2021 20:00,Manchester City,3.1,0.3,Leeds United,Paul Tierney,2.4,0.2,Moderate,High,Low,High,Low,Home,7,0,Home
+12-03-2023 14:00,Manchester Utd,0.8,1.0,Southampton,Anthony Taylor,0.8,0.9,Moderate,Moderate,Moderate,Moderate,Moderate,Away,0,0,Draw
+12-05-2019 15:00,Manchester Utd,1.5,1.6,Cardiff City,Jonathan Moss,1.5,0.7,Low,Low,Moderate,Moderate,Low,Home,0,2,Away
+11-01-2020 15:00,Everton,1.7,1.3,Brighton,David Coote,1.5,0.3,Low,Moderate,Moderate,High,Moderate,Home,1,0,Home
+27-10-2019 14:00,Newcastle Utd,1.0,2.1,Wolves,Kevin Friend,0.9,1.6,Low,Moderate,Moderate,High,High,Home,1,1,Draw
+14-12-2019 15:00,Chelsea,2.1,1.0,Bournemouth,Graham Scott,1.5,0.7,Low,Low,Low,Moderate,Moderate,Away,0,1,Away
+08-02-2020 17:30,Brighton,0.8,0.2,Watford,Kevin Friend,0.5,0.2,Low,Low,Low,High,Moderate,Home,1,1,Draw
+17-03-2019 14:15,Fulham,1.1,2.6,Liverpool,Craig Pawson,1.2,0.6,Low,Moderate,Low,Moderate,Moderate,Away,1,2,Away
+02-01-2019 19:45,West Ham,0.8,0.7,Brighton,Chris Kavanagh,0.6,0.9,Moderate,Moderate,Low,High,Low,Home,2,2,Draw
