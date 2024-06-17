@@ -41,13 +41,15 @@ class ModelTrainer:
             logging.info("Split training and test input data")
             # X_train, y_train, X_test, y_test = (train_array[:,:-1],train_array[:,-1],
             #                                     test_array[:,:-1],test_array[:,-1])
+
+            smote = SMOTE(k_neighbors=5, random_state=42)
+            X, y = smote.fit_resample(X, y)
+
+
             
             X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,random_state=42)
 
-            smote = SMOTE(k_neighbors=5, random_state=42)
-            X_smote, y_smote = smote.fit_resample(X_train, y_train)
-
-
+            
             models = {
                 "Random Forest": RandomForestClassifier(n_estimators=150, max_depth=10, random_state=42,min_samples_split=3),
                 "Logistic Regression": LogisticRegression(random_state=42,C = 10, max_iter= 1000, penalty= 'l1', solver = 'saga'),
@@ -57,7 +59,7 @@ class ModelTrainer:
 
             }
 
-            model_report: dict = evaluate_models(X_smote, y_smote, X_test, y_test, models)
+            model_report: dict = evaluate_models(X_train, y_train, X_test, y_test, models)
 
             best_model_score = max(sorted(model_report.values()))
 
