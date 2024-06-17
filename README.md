@@ -1,1 +1,1 @@
-## Football Multi-Class ML Prpject
+## Football Multi-Class ML Project
