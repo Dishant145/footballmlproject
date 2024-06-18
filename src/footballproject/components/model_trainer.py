@@ -53,7 +53,7 @@ class ModelTrainer:
             models = {
                 "Random Forest": RandomForestClassifier(n_estimators=150, max_depth=10, random_state=42,min_samples_split=3),
                 "Logistic Regression": LogisticRegression(random_state=42,C = 10, max_iter= 1000, penalty= 'l1', solver = 'saga'),
-                "KNN": KNeighborsClassifier(n_neighbors=7),
+                "KNN": KNeighborsClassifier(n_neighbors=5),
                 "Linear SVC": LinearSVC(C=10, random_state=42,dual=False, max_iter=1000, tol=1e-6,class_weight='balanced',penalty='l1'),
                 "Naive Bayes": GaussianNB(var_smoothing=1e-11)
 
