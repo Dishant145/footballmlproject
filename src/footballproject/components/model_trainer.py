@@ -118,3 +118,16 @@ class ModelTrainer:
         except Exception as e:
             raise CustomException(e,sys)
             
+
+
+if __name__ == '__main__':
+    logging.info("The execution has started")
+    
+    data_ingestion=DataIngestion()
+    raw_data_path=data_ingestion.initiate_data_ingestion()
+
+    data_transformation=DataTransformation()
+    X,y,_=data_transformation.initiate_data_transformation(raw_data_path)
+
+    model_trainer=ModelTrainer()
+    model_trainer.initiate_model_trainer(X,y)

@@ -60,22 +60,6 @@ def predict_result(data:FootballFeature):
         'prediction': prediction
     }
 
-# 5. Run the API with uvicorn
-#    Will run on http://127.0.0.1:8000
-if __name__ == '__main__':
-    logging.info("The execution has started")
-    
-    data_ingestion=DataIngestion()
-    raw_data_path=data_ingestion.initiate_data_ingestion()
 
-    data_transformation=DataTransformation()
-    X,y,_=data_transformation.initiate_data_transformation(raw_data_path)
-
-    model_trainer=ModelTrainer()
-    model_trainer.initiate_model_trainer(X,y)
-    
-    uvicorn.run(app, host='0.0.0.0', port=8080)
-
-    
     
 
