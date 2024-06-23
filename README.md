@@ -1,10 +1,5 @@
-## Football Multi-Class ML Project
+# Predicting Football Match Outcomes Using Advanced Football Metrics
 
-# Predicting Football Match Outcomes Using Machine Learning
-
-## Introduction
-
-This project aims to predict football match outcomes using advanced football metrics and machine learning models. By combining metrics like Expected Goals (xG) and Expected Assisted Goals (xAG) with external factors such as weather conditions, referee bias, and team fatigue, we aim to achieve high prediction accuracy.
 
 ## Table of Contents
 
@@ -18,6 +13,13 @@ This project aims to predict football match outcomes using advanced football met
 - [Conclusion and Future Work](#conclusion-and-future-work)
 - [How to Run the Project](#how-to-run-the-project)
 - [Acknowledgements](#acknowledgements)
+
+
+
+## Introduction
+
+This project aims to predict football match outcomes using advanced football metrics and machine learning models. By combining metrics like Expected Goals (xG) and Expected Assisted Goals (xAG) with external factors such as weather conditions, referee bias, and team fatigue, we aim to achieve high prediction accuracy.
+
 
 ## Literature Review
 
