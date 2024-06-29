@@ -2,4 +2,4 @@ outs:
 - md5: 5fbce8d152e4c83c8b080c2f8c4e7117
   size: 216198
   hash: md5
-  path: raw.csv
+  path: mergedleagues.csv
