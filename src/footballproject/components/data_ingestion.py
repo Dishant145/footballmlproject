@@ -1,3 +1,5 @@
+
+
 import os
 import sys
 from src.footballproject.exception import CustomException
@@ -15,14 +17,13 @@ class DataIngestionConfig:
     # test_data_path:str=os.path.join('artifact','test.csv')
     raw_data_path:str=os.path.join('artifact','raw.csv')
 
-
 class DataIngestion:
     def __init__(self):
         self.ingestion_config = DataIngestionConfig()
 
     def initiate_data_ingestion(self):
         try:
-            df = pd.read_csv('data/model.csv')
+            data = pd.read_csv('../data/mergedleagues.csv')
             
             logging.info("Reading raw dataset")
             
@@ -48,3 +49,9 @@ class DataIngestion:
         except Exception as e:
             raise CustomException(e,sys)
 
+
+if __name__ == '__main__':
+    logging.info("The data ingestion component execution has started")
+    
+    data_ingestion=DataIngestion()
+    raw_data_path=data_ingestion.initiate_data_ingestion()

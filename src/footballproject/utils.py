@@ -5,7 +5,7 @@ from src.footballproject.logger import logging
 import pandas as pd
 import pickle
 import numpy as np
-
+from sklearn.model_selection import KFold
 from sklearn.metrics import accuracy_score
 
 def save_object(file_path, obj):
@@ -20,25 +20,37 @@ def save_object(file_path, obj):
     except Exception as e:
         raise CustomException(e, sys)
 
-def evaluate_models(X_train, y_train,X_test,y_test,models):
+def evaluate_models(X,y,models):
     try:
         report = {}
 
         for i in range(len(list(models))):
+            
             model = list(models.values())[i]
             
-            model.fit(X_train,y_train)
+            kf = KFold(n_splits=5, shuffle=True, random_state=42)
+            scores = []
+            
+            for train_indices, test_indices in kf.split(X,y):
+                X_train, y_train = X[train_indices], y[train_indices]
+                X_test, y_test = X[test_indices], y[test_indices]
+                
+                # Training the model on the training data
+                model.fit(X_train, y_train)
+                
+                # Making predictions on the test data
+                y_pred = model.predict(X_test)
+                
+                # Calculating the accuracy score for this fold
+                fold_score = accuracy_score(y_test, y_pred)
+                
+                # Appending the fold score to the list of scores
+                scores.append(fold_score)
 
-            y_train_pred = model.predict(X_train)
+                mean_score = np.mean(scores)
 
-            y_test_pred = model.predict(X_test)
-
-            train_model_score = accuracy_score(y_train, y_train_pred)
-
-            test_model_score = accuracy_score(y_test, y_test_pred)
-
-            report[list(models.keys())[i]] = test_model_score
-
+            report[list(models.keys())[i]] = mean_score
+        
         return report
 
     except Exception as e:

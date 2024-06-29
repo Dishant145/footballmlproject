@@ -21,10 +21,10 @@ class Feature_Engineering(BaseEstimator, TransformerMixin):
     
     def time_series(self, df):
         
-        # df['Home_Attacking_Form'] = df.groupby('Home')['xG_Home'].transform(lambda x: x.rolling(5, 1).mean())
-        # df['Home_Assisting_Form'] = df.groupby('Home')['xGA_Home'].transform(lambda x: x.rolling(5, 1).mean())
-        # df['Away_Attacking_Form'] = df.groupby('Away')['xG_Away'].transform(lambda x: x.rolling(5, 1).mean())
-        # df['Away_Assisting_Form'] = df.groupby('Away')['xGA_Away'].transform(lambda x: x.rolling(5, 1).mean()
+        df['xG_Home'] = df.groupby('Home')['xG_Home'].transform(lambda x: x.rolling(3, 1).mean())
+        df['xGA_Home'] = df.groupby('Home')['xGA_Home'].transform(lambda x: x.rolling(3, 1).mean())
+        df['xG_Away'] = df.groupby('Away')['xG_Away'].transform(lambda x: x.rolling(3, 1).mean())
+        df['xGA_Away'] = df.groupby('Away')['xGA_Away'].transform(lambda x: x.rolling(3, 1).mean())
 
         df['xG_Diff'] = df['xG_Home'] - df['xG_Away']
         df['xGA_Diff'] = df['xGA_Home'] - df['xGA_Away']
@@ -81,7 +81,7 @@ class DataTransformation:
                 "Temp", "Humidity", "Wind", "Home_Fatigue", "Away_Fatigue","Referee_Bias"
             ]
 
-            # categorical_columns = ["Referee_Bias"]
+            # categorical_columns = ["Result"]
 
             categories_1 = [['Low', 'Moderate', 'High']] * 5
             categories_2 = ['Home','Away']
@@ -94,8 +94,7 @@ class DataTransformation:
             ])
 
             # cat_pipeline=Pipeline(steps=[
-            #     ("one_hot_encoder",LabelEncoder()),
-            #     ("scaler",StandardScaler())
+            #     ("label_encoder",LabelEncoder()),
             # ])
 
             ord_pipeline=Pipeline(steps=[
@@ -149,7 +148,6 @@ class DataTransformation:
 
             X = fe_obj.fit_transform(X)
 
-            
 
             preprocessing_obj=self.get_data_transformation()
 
@@ -163,6 +161,8 @@ class DataTransformation:
             # X_test_arr = preprocessing_obj.transform(X_test)
 
             X = preprocessing_obj.fit_transform(X)
+
+            
 
             # train_arr = np.c_[X_train_arr, np.array(y_train)]
             # test_arr = np.c_[X_test_arr, np.array(y_test)]
@@ -191,10 +191,13 @@ class DataTransformation:
                 y,
                 self.data_transformation_config.preprocessor_obj_file_path
             )
-
-
-
-
         except Exception as e:
             raise CustomException( e,sys)
  
+
+if __name__ == '__main__':
+    logging.info("The data transformation component execution has started")
+
+
+    data_transformation=DataTransformation()
+    X,y,_=data_transformation.initiate_data_transformation(raw_data_path)

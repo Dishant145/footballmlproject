@@ -2,6 +2,10 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
+scikit-learn==1.2.2
 mlflow
 fastapi
+imblearn
+xgboost
+statsmodels
+dagshub

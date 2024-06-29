@@ -11,7 +11,9 @@ from sklearn.svm import LinearSVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.naive_bayes import GaussianNB
 from imblearn.over_sampling import SMOTE
+from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder, MinMaxScaler, StandardScaler, LabelEncoder
 import mlflow
 import mlflow.sklearn
 from urllib.parse import urlparse
@@ -45,21 +47,22 @@ class ModelTrainer:
             smote = SMOTE(k_neighbors=5, random_state=42)
             X, y = smote.fit_resample(X, y)
 
+            # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,random_state=42)
 
-            
-            X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2,random_state=42)
-
+            label_encoder = LabelEncoder()
+            y = label_encoder.fit_transform(y)
             
             models = {
-                "Random Forest": RandomForestClassifier(n_estimators=150, max_depth=10, random_state=42,min_samples_split=3),
+                "Random Forest": RandomForestClassifier(n_estimators=120, max_depth=9, random_state=42,min_samples_split=3),
                 "Logistic Regression": LogisticRegression(random_state=42,C = 10, max_iter= 1000, penalty= 'l1', solver = 'saga'),
                 "KNN": KNeighborsClassifier(n_neighbors=5),
                 "Linear SVC": LinearSVC(C=10, random_state=42,dual=False, max_iter=1000, tol=1e-6,class_weight='balanced',penalty='l1'),
-                "Naive Bayes": GaussianNB(var_smoothing=1e-11)
+                "Naive Bayes": GaussianNB(var_smoothing=1e-11),
+                "XGBoost": XGBClassifier(n_estimators=100, max_depth=6, learning_rate=0.1, random_state=42)
 
             }
 
-            model_report: dict = evaluate_models(X_train, y_train, X_test, y_test, models)
+            model_report: dict = evaluate_models(X,y, models)
 
             best_model_score = max(sorted(model_report.values()))
 
@@ -96,7 +99,6 @@ class ModelTrainer:
 
 
                 if tracking_url_type_store != "file":
-
                     mlflow.sklearn.log_model(best_model_name, "model", registered_model_name=actual_model)
                 else:
                     mlflow.sklearn.log_model(best_model_name, "model")
@@ -117,17 +119,11 @@ class ModelTrainer:
 
         except Exception as e:
             raise CustomException(e,sys)
-            
+        
 
 
 if __name__ == '__main__':
-    logging.info("The execution has started")
-    
-    data_ingestion=DataIngestion()
-    raw_data_path=data_ingestion.initiate_data_ingestion()
-
-    data_transformation=DataTransformation()
-    X,y,_=data_transformation.initiate_data_transformation(raw_data_path)
+    logging.info("The model trainer component execution has started")
 
     model_trainer=ModelTrainer()
     model_trainer.initiate_model_trainer(X,y)

@@ -42,7 +42,7 @@ def predict_result(data:FootballFeature):
     'xGA_Home': data['xGA_Home'],
     'xGA_Away': data['xGA_Away'],
 
-}
+    }
 
     data_f = pd.DataFrame([data_f])
 
@@ -61,5 +61,10 @@ def predict_result(data:FootballFeature):
     }
 
 
-    
+if __name__ == "__main__":
+    uvicorn.run(app)
 
+
+
+
+    
