@@ -4,36 +4,13 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Literature Review](#literature-review)
 - [Methodology](#methodology)
-- [Data Analysis and Hypothesis Testing](#data-analysis-and-hypothesis-testing)
-- [Model Implementation](#model-implementation)
-- [Model Evaluation](#model-evaluation)
-- [Discussion](#discussion)
-- [Conclusion and Future Work](#conclusion-and-future-work)
 - [How to Run the Project](#how-to-run-the-project)
-- [Acknowledgements](#acknowledgements)
-
 
 
 ## Introduction
 
 This project aims to predict football match outcomes using advanced football metrics and machine learning models. By combining metrics like Expected Goals (xG) and Expected Assisted Goals (xAG) with external factors such as weather conditions, referee bias, and team fatigue, we aim to achieve high prediction accuracy.
-
-
-## Literature Review
-
-### Football Metrics
-
-Football metrics such as Expected Goals (xG) and Expected Assisted Goals (xAG) provide deeper insights into team and player performance beyond traditional statistics.
-
-### External Factors
-
-External factors like weather conditions, referee bias, and team fatigue significantly influence match outcomes. Understanding these factors is crucial for making accurate predictions.
-
-### Previous Work
-
-Previous research in sports analytics has employed various machine learning techniques to predict match outcomes. This project aims to fill the gap by incorporating a comprehensive dataset and considering a wide range of influencing factors.
 
 ## Methodology
 
@@ -41,12 +18,13 @@ Previous research in sports analytics has employed various machine learning tech
 
 Our system consists of several key components: data collection, data preparation, exploratory data analysis, model implementation, and evaluation.
 
-![System Architecture](https://path_to_your_image)
+![System Architecture](Images/Architecture.png)
 
 ### Data Collection
 
 Data was collected from multiple sources, including match statistics, weather data, and referee reports. This involved scraping data from APIs and compiling historical match records from online databases.
 
+![](Images/Data Collection.png)
 ### Data Preparation
 
 Data preparation involved cleaning and preprocessing the raw data. Feature engineering was applied to create new variables such as home/away fatigue levels and referee bias scores.
