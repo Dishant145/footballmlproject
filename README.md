@@ -24,7 +24,7 @@ Our system consists of several key components: data collection, data preparation
 
 Data was collected from multiple sources, including match statistics, weather data, and referee reports. This involved scraping data from APIs and compiling historical match records from online databases.
 
-![Data Collection](Images/Data Collection.png)
+![Data Collection](Images/DataCollection.png)
 
 
 ### Data Preparation
