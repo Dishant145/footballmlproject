@@ -18,7 +18,7 @@ This project aims to predict football match outcomes using advanced football met
 
 Our system consists of several key components: data collection, data preparation, exploratory data analysis, model implementation, and evaluation.
 
-![System Architecture](Images/Architecture.png)
+![System Architecture](Images/diagram.png)
 
 ### Data Collection
 
