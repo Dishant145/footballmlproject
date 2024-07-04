@@ -27,10 +27,6 @@ Data was collected from multiple sources, including match statistics, weather da
 ![Data Collection](Images/DataCollection.png)
 
 
-### Data Preparation
-
-Data preparation involved cleaning and preprocessing the raw data. Feature engineering was applied to create new variables such as home/away fatigue levels and referee bias scores.
-
 ## Model Implementation
 
 ### Machine Learning Algorithms
@@ -40,7 +36,7 @@ We implemented several machine learning algorithms to predict match outcomes:
 - Logistic Regression
 - Random Forest Classifier
 - K-Nearest Neighbor (KNN)
-- Stacking Classifier
+- xGBoost Classifier
 
 ## Model Evaluation
 
