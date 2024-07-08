@@ -23,7 +23,7 @@ with open("artifact/model.pkl", "rb") as model_in:
 
 @app.get('/')
 def index():
-    return {'message': 'Hello, World'}
+    return {'message': 'Welcome!'}
 
 
 @app.post('/predict')

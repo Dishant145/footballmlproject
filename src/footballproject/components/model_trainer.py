@@ -17,9 +17,12 @@ from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder, MinMaxScaler, S
 import mlflow
 import mlflow.sklearn
 from urllib.parse import urlparse
+from dotenv import load_dotenv
 import dagshub
-dagshub.init(repo_owner='Dishant145', repo_name='footballmlproject', mlflow=True)
-
+# dagshub.init(repo_owner='Dishant145', repo_name='footballmlproject', mlflow=True)
+load_dotenv()
+os.environ["MLFLOW_TRACKING_USERNAME"] = "Dishant145"
+os.environ["MLFLOW_TRACKING_PASSWORD"] = os.getenv("DAGSHUB_TOKEN")
 
 
 @dataclass
