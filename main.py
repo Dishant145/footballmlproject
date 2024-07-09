@@ -61,8 +61,8 @@ def predict_result(data:FootballFeature):
     }
 
 
-if __name__ == "__main__":
-    uvicorn.run(app)
+# if __name__ == "__main__":
+#     uvicorn.run(app)
 
 
 
