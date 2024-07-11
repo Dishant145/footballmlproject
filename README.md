@@ -18,7 +18,7 @@ Data was collected from multiple sources, including match statistics, weather da
 
 
 Please click the following link to view the logged metrics of Random Forest model in mllow UI.
-[Click to View](https://dagshub.com/Dishant145/footballmlproject.mlflow/#/experiments/0/runs/461b3d20d679405083b6a8e1de2daf8c){:target="_blank"}
+[Click to View](https://dagshub.com/Dishant145/footballmlproject.mlflow/#/experiments/0/runs/461b3d20d679405083b6a8e1de2daf8c){:target="_blank" rel="noopener"}
 
 
 
